@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+credentials.json
+token.json
+.env
+__pycache__
